@@ -1,0 +1,59 @@
+category,name,price_vnd,specs,use_case,tier,notes
+CPU,Intel Core i3-12100F,1650000,"4 nhân 8 luồng, 3.3-4.3GHz",Văn phòng;Học tập,Entry,CPU phổ thông cho tác vụ nhẹ
+CPU,AMD Ryzen 5 5600,2450000,"6 nhân 12 luồng, 3.5-4.4GHz",Gaming;Văn phòng;Lập trình,Mid,Hiệu năng/giá tốt cho gaming tầm trung
+CPU,Intel Core i5-12400F,2950000,"6 nhân 12 luồng, 2.5-4.4GHz",Gaming;Lập trình;Văn phòng,Mid,Lựa chọn phổ biến cho PC gaming tầm trung
+CPU,Intel Core i5-13400F,3600000,"10 nhân 16 luồng, 2.5-4.6GHz",Gaming;Đồ họa;Lập trình,Mid-High,Nhiều nhân hơn i5-12400F
+CPU,AMD Ryzen 5 7600,3900000,"6 nhân 12 luồng, 3.8-5.1GHz",Gaming;Lập trình,Mid-High,"Nền tảng AM5 mới, hỗ trợ DDR5"
+CPU,AMD Ryzen 7 7700X,7500000,"8 nhân 16 luồng, 4.5-5.4GHz",Gaming;Đồ họa;AI/Học máy,High,Hiệu năng cao cho đa nhiệm nặng
+CPU,Intel Core i7-13700K,9800000,"16 nhân 24 luồng, 3.4-5.4GHz",Gaming;Đồ họa;Dựng phim,High,Mạnh cho dựng phim và gaming cao cấp
+CPU,AMD Ryzen 9 7900X,11500000,"12 nhân 24 luồng, 4.7-5.6GHz",Đồ họa;Dựng phim;AI/Học máy,High,Đa nhân mạnh cho render và AI
+CPU,Intel Core i9-13900K,15500000,"24 nhân 32 luồng, 3.0-5.8GHz",Đồ họa;Dựng phim;AI/Học máy,Workstation,CPU đầu bảng cho workstation
+Mainboard,ASRock B660M-HDV,1750000,"Chipset B660, hỗ trợ DDR4, socket 1700",Văn phòng;Gaming,Entry,Bo mạch chủ phổ thông cho i3/i5 12th/13th
+Mainboard,MSI B550M PRO-VDH,2100000,"Chipset B550, hỗ trợ DDR4, socket AM4",Gaming;Văn phòng,Mid,Bo mạch chủ ổn định cho Ryzen 5000
+Mainboard,Gigabyte B760M DS3H,2650000,"Chipset B760, hỗ trợ DDR4/DDR5, socket 1700",Gaming;Lập trình,Mid,Phù hợp i5-13400F trở lên
+Mainboard,ASUS TUF B650-PLUS,4200000,"Chipset B650, hỗ trợ DDR5, socket AM5",Gaming;Đồ họa,Mid-High,Cho nền tảng Ryzen 7000 series
+Mainboard,MSI MAG Z790 TOMAHAWK,7500000,"Chipset Z790, hỗ trợ DDR5, socket 1700",Đồ họa;Dựng phim;AI/Học máy,High,Hỗ trợ ép xung cho CPU Intel cao cấp
+RAM,Kingston Fury 8GB DDR4 3200MHz,650000,"8GB, DDR4, 3200MHz",Văn phòng;Học tập,Entry,Đủ dùng cho tác vụ văn phòng cơ bản
+RAM,Kingston Fury 16GB (2x8GB) DDR4 3200MHz,1250000,"16GB, DDR4, 3200MHz",Gaming;Văn phòng;Lập trình,Mid,Cấu hình RAM phổ biến nhất hiện nay
+RAM,Corsair Vengeance 32GB (2x16GB) DDR4 3200MHz,2400000,"32GB, DDR4, 3200MHz",Gaming;Đồ họa;Lập trình,Mid-High,Đủ cho đa nhiệm nặng và dựng phim nhẹ
+RAM,Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz,3200000,"32GB, DDR5, 6000MHz",Gaming;Đồ họa;AI/Học máy,High,Dành cho nền tảng DDR5 mới
+RAM,G.Skill Trident Z5 64GB (2x32GB) DDR5 6000MHz,6800000,"64GB, DDR5, 6000MHz",Đồ họa;Dựng phim;AI/Học máy,Workstation,Cho render nặng và máy học
+VGA,NVIDIA GT 1030 2GB,1900000,"2GB GDDR5, không hỗ trợ ray tracing",Văn phòng;Học tập,Entry,"Chỉ đủ xuất hình, không chơi game nặng được"
+VGA,NVIDIA RTX 3050 8GB,4500000,"8GB GDDR6, hỗ trợ ray tracing",Gaming,Mid,Chơi tốt game phổ biến ở mức 1080p
+VGA,NVIDIA RTX 4060 8GB,7800000,"8GB GDDR6, DLSS 3",Gaming;Đồ họa,Mid-High,Lựa chọn cân bằng giá/hiệu năng phổ biến nhất
+VGA,NVIDIA RTX 4060 Ti 8GB,9500000,"8GB GDDR6, DLSS 3",Gaming;Đồ họa,High,Mạnh hơn 4060 cho 1440p
+VGA,NVIDIA RTX 4070 12GB,14500000,"12GB GDDR6X, DLSS 3",Gaming;Đồ họa;Dựng phim,High,"Chơi tốt 1440p/4K, dựng phim mượt"
+VGA,NVIDIA RTX 4080 Super 16GB,26000000,"16GB GDDR6X, DLSS 3",Gaming;Đồ họa;AI/Học máy,Workstation,Hiệu năng cao cấp cho 4K và AI
+VGA,NVIDIA RTX 4090 24GB,45000000,"24GB GDDR6X, DLSS 3",Đồ họa;Dựng phim;AI/Học máy,Workstation,"VGA đầu bảng cho render, AI, 4K/8K"
+SSD,Kingston NV2 500GB NVMe,750000,"500GB, NVMe PCIe 4.0",Văn phòng;Học tập;Gaming,Entry,Tốc độ tốt cho khởi động hệ điều hành
+SSD,Samsung 980 1TB NVMe,1650000,"1TB, NVMe PCIe 3.0",Gaming;Văn phòng;Lập trình,Mid,Dung lượng thoải mái cho đa số nhu cầu
+SSD,WD Black SN770 1TB NVMe,1750000,"1TB, NVMe PCIe 4.0",Gaming;Đồ họa;Lập trình,Mid,Tốc độ đọc ghi cao cho load game nhanh
+SSD,Samsung 990 Pro 2TB NVMe,4200000,"2TB, NVMe PCIe 4.0",Đồ họa;Dựng phim;AI/Học máy,High,Tốc độ cao cho làm việc với file lớn
+PSU,Corsair CV450 450W,900000,"450W, 80 Plus Bronze",Văn phòng;Entry gaming,Entry,Nguồn cơ bản cho cấu hình nhẹ
+PSU,Corsair CV650 650W,1350000,"650W, 80 Plus Bronze",Gaming;Văn phòng,Mid,Đủ công suất cho VGA tầm trung
+PSU,Corsair RM750e 750W,2400000,"750W, 80 Plus Gold",Gaming;Đồ họa,Mid-High,"Nguồn chất lượng tốt, ổn định"
+PSU,Corsair RM850x 850W,3400000,"850W, 80 Plus Gold",Đồ họa;Dựng phim;AI/Học máy,High,Đủ công suất cho VGA cao cấp
+PSU,Corsair AX1000 1000W,6500000,"1000W, 80 Plus Titanium",Đồ họa;Dựng phim;AI/Học máy,Workstation,Cho cấu hình VGA đầu bảng như RTX 4090
+Case,Xigmatek Aquarius Plus,650000,"Mid Tower, 2 fan sẵn",Văn phòng;Gaming,Entry,"Case giá rẻ, thoáng khí ổn"
+Case,Xigmatek X3 Plus,950000,"Mid Tower, kính cường lực, 3 fan",Gaming;Văn phòng,Mid,"Thiết kế đẹp, giá hợp lý"
+Case,NZXT H510,1850000,"Mid Tower, kính cường lực, đi dây tốt",Gaming;Đồ họa,Mid-High,"Thiết kế tối giản, dễ đi dây"
+Case,Lian Li O11 Dynamic,3800000,"Mid Tower, kính 2 mặt, tản nhiệt tốt",Đồ họa;Dựng phim;AI/Học máy,High,Không gian rộng cho tản nhiệt cao cấp
+Màn hình,Màn hình 19 inch Full HD 60Hz,1200000,"18.5 inch, 1366x768, 60Hz",Văn phòng;Học tập,Entry,"Lựa chọn rẻ nhất, đủ dùng gõ văn bản"
+Màn hình,Màn hình 22 inch Full HD 75Hz,1900000,"21.5 inch, 1920x1080, 75Hz",Văn phòng;Học tập,Entry,Đủ dùng cho công việc văn phòng
+Màn hình,Màn hình 24 inch IPS 100Hz,2600000,"23.8 inch, 1920x1080, 100Hz, IPS",Văn phòng;Học tập;Gaming,Entry-Mid,"Góc nhìn rộng, màu sắc tốt hơn màn TN"
+Màn hình,Màn hình di động 15.6 inch Full HD,2800000,"15.6 inch, 1920x1080, 60Hz, USB-C",Văn phòng;Lập trình,Mid,"Gọn nhẹ, cắm trực tiếp qua cổng USB-C, tiện mang theo"
+Màn hình,Màn hình 24 inch Full HD 144Hz,2900000,"24 inch, 1920x1080, 144Hz",Gaming,Mid,Tần số quét cao cho gaming mượt
+Màn hình,Màn hình cong 24 inch Full HD 165Hz,3400000,"24 inch, 1920x1080, 165Hz, cong 1500R",Gaming,Mid,Màn cong tăng độ đắm chìm khi chơi game
+Màn hình,Màn hình 27 inch 2K 144Hz,5500000,"27 inch, 2560x1440, 144Hz",Gaming;Đồ họa,Mid-High,"Độ phân giải cao, màu đẹp cho thiết kế"
+Màn hình,Màn hình đồ họa 27 inch 2K 100% sRGB,6500000,"27 inch, 2560x1440, 60Hz, IPS, 100% sRGB",Đồ họa;Dựng phim,Mid-High,Độ chính xác màu cao cho thiết kế/chỉnh ảnh
+Màn hình,Màn hình 32 inch 2K 165Hz,7200000,"32 inch, 2560x1440, 165Hz",Gaming;Đồ họa,High,"Kích thước lớn, tần số quét cao cho gaming/đồ họa"
+Màn hình,Màn hình cong Ultrawide 34 inch 2K 144Hz,9800000,"34 inch, 3440x1440, 144Hz, cong",Gaming;Đồ họa;Lập trình,High,"Không gian làm việc rộng, nhập vai khi chơi game"
+Màn hình,Màn hình 27 inch 4K 144Hz,12500000,"27 inch, 3840x2160, 144Hz",Đồ họa;Dựng phim,High,"Chuyên dựng phim, đồ họa chuyên nghiệp"
+Laptop,Acer Aspire 3 (i3/8GB/512GB),11500000,"i3-1215U, 8GB RAM, 512GB SSD, 15.6 inch",Văn phòng;Học tập,Entry,"Laptop văn phòng cơ bản, pin bền"
+Laptop,ASUS Vivobook 15 (i5/8GB/512GB),15500000,"i5-1235U, 8GB RAM, 512GB SSD, 15.6 inch",Văn phòng;Học tập;Lập trình,Mid,Cân bằng hiệu năng và giá cho sinh viên
+Laptop,Lenovo LOQ 15 (i5/RTX3050/512GB),20500000,"i5-12450H, RTX 3050, 16GB RAM, 512GB SSD",Gaming,Mid,Laptop gaming tầm trung phổ biến
+Laptop,MacBook Air M2 (8GB/256GB),24500000,"Apple M2, 8GB RAM, 256GB SSD, 13.6 inch",Văn phòng;Lập trình;Học tập,Mid-High,"Pin cực bền, mát, phù hợp di chuyển nhiều"
+Laptop,ASUS TUF Gaming A15 (R7/RTX4060/1TB),27500000,"Ryzen 7 7735HS, RTX 4060, 16GB RAM, 1TB SSD",Gaming;Đồ họa,Mid-High,"Laptop gaming hiệu năng mạnh, tản nhiệt tốt"
+Laptop,Dell XPS 15 (i7/RTX4050/1TB),42000000,"i7-13700H, RTX 4050, 16GB RAM, 1TB SSD, 15.6 inch OLED",Đồ họa;Dựng phim;Lập trình,High,"Màn hình OLED đẹp, hiệu năng cao cho sáng tạo nội dung"
+Laptop,ASUS ROG Strix G16 (i9/RTX4070/1TB),45500000,"i9-13980HX, RTX 4070, 16GB RAM, 1TB SSD",Gaming;Đồ họa,High,"Laptop gaming cao cấp, hiệu năng gần desktop"
+Laptop,MacBook Pro 14 M3 Pro (18GB/512GB),52000000,"Apple M3 Pro, 18GB RAM, 512GB SSD, 14 inch",Đồ họa;Dựng phim;Lập trình,High,"Mạnh cho dựng phim, lập trình chuyên sâu"
